@@ -23,7 +23,7 @@ The technologies I have used are:
 ## Website Screenshots
 <space><space>
 
-![A screenshot of this website on different devices](assets/img/lily-case-study.jpg)
+![A screenshot of this website on different devices](lilybayboutique-theme/assets/img/lily-case-study.jpg)
 
 ### Laptop version
 
