@@ -1,6 +1,6 @@
 # LilyBayBoutique's Website
 
-This is the custom WordPress theme with WooCommerce I built in 2017 for the LilyBayBoutique independent e-commerce store.
+This is the custom WordPress theme with WooCommerce I built in 2018 for the LilyBayBoutique independent e-commerce store.
 
 The technologies I have used are:
 
