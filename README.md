@@ -23,13 +23,13 @@ The technologies I have used are:
 ## Website Screenshots
 <space><space>
 
-![A screenshot of this website on different devices](https://github.com/paologhidoni/lilibayboutique/blob/main/lilybayboutique-theme/assets/img/lily-case-study.jpg)
+![A screenshot of this website on different devices](assets/img/lily-case-study.jpg)
 
 ### Laptop version
 
-![A screenshot of this website on a laptop](https://github.com/paologhidoni/lilibayboutique/blob/main/lilybayboutique-theme/assets/img/lily-laptop.png)
+![A screenshot of this website on a laptop](lilybayboutique-theme/assets/img/lily-laptop.png)
 
-![A screenshot of this website on a Macintosh laptop](https://github.com/paologhidoni/lilibayboutique/blob/main/lilybayboutique-theme/assets/img/lily-mac.png)
+![A screenshot of this website on a Macintosh laptop](lilybayboutique-theme/assets/img/lily-mac.png)
 
 
 
